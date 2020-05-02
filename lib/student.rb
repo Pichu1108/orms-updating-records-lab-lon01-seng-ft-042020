@@ -10,6 +10,9 @@ class Student
       @grade = grade
     end
 
+    def update
+
+    end
 
   def save
     if self.id
